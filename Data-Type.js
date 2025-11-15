@@ -50,7 +50,7 @@ console.log("Null datatype:");
 
 let notAssigned;
 console.log("Undefined datatype:");
-console.log("Not assigned variable:", notAssigned);
+console.log("Not assigned variable:", notAssigned); 
 // _____________________________________________________________________________________________________________________________________________________________
 
 //Object datatype
