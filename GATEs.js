@@ -16,7 +16,7 @@ if(a>b && a<b)
     console.log("false");
 }
 //case3
-var a=13;
+var a=13; 
 var b=9;
 if(a<b && a<b)
 {
