@@ -14,7 +14,7 @@
 //Number datatype
 
 let num1 = 42;
-let num2 = 3.14;
+let num2 = 3.14; 
 console.log("Number datatype:");
 console.log("Integer:", num1); 
 console.log("Float:", num2);
