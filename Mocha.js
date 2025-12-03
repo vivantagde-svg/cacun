@@ -16,7 +16,7 @@ console.log(c.toExponential(1)); //2.1e+0
 console.log(c.toExponential(3)); //2.110e+0
 console.log(c.toExponential(5)); //2.11000e+0
 
-//.tofixed method used for set the exact value after the decimal if there is no numb. then it again enter zera there.
+//.tofixed method used for set the exact value after the decimal if there is no numb. then it again enter zera there. 
 var d=8.6569;
 console.log(d.toFixed(4));  //8.6569
 console.log(d.toFixed(1));  //8.7

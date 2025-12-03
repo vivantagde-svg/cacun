@@ -8,7 +8,7 @@ if(a>b && a>b)
 {
     console.log("true");
 }
-//case2
+//case2 
 var a=12;
 var b=8;
 if(a>b && a<b)
@@ -16,7 +16,7 @@ if(a>b && a<b)
     console.log("false");
 }
 //case3
-var a=13;
+var a=13; 
 var b=9;
 if(a<b && a<b)
 {

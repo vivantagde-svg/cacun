@@ -10,8 +10,8 @@ while(i<3)
 // another Example of while loop //
 let stars = 1; 
 while (stars<=8) { 
-    console.log("star number:"+ stars); 
-    stars++; 
+    console.log("star number:"+ stars);  
+    stars++;  
 } 
 
 // _____________________________________________________________________________________________________________________________________________________________
@@ -83,7 +83,7 @@ else{
 //If else example//
 let color=prompt("Enter the color of traffic light:");
 if(colo=="red")
-{
+{ 
     console.log("Stop");
 }else if(color=="yellow")
 {
