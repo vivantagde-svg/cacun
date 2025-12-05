@@ -12,7 +12,7 @@
         const ctx = canvas.getContext('2d', { alpha: false }); // Alpha false for performance
         const statusEl = document.getElementById('status');
 
-        let width, height;
+        let width, height; 
         
         // Configuration
         const config = {
