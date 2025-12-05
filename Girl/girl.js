@@ -9,7 +9,7 @@
         const canvas = document.getElementById('c');
         const ctx = canvas.getContext('2d');
 
-        let width, height;
+        let width, height; 
         let frame = 0;
 
         // Mouse State
