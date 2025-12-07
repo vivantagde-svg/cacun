@@ -6,13 +6,13 @@
          * A matrix defines the attraction/repulsion force between Type A and Type B.
          * * Complex structures (membranes, chains, spinners) emerge automatically
          * from these simple local rules.
-         */
+         */ 
 
         const canvas = document.getElementById('sim');
         const ctx = canvas.getContext('2d', { alpha: false }); // Alpha false for performance
         const statusEl = document.getElementById('status');
 
-        let width, height;
+        let width, height; 
         
         // Configuration
         const config = {

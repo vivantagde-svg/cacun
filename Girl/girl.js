@@ -3,13 +3,13 @@
          * A procedural character animation.
          * * Instead of loading an image (PNG/JPG), we "paint" the character
          * every single frame using .arc(), .rect(), and .bezierCurveTo().
-         * This allows every body part to move independently.
+         * This allows every body part to move independently. 
          */
 
         const canvas = document.getElementById('c');
         const ctx = canvas.getContext('2d');
 
-        let width, height;
+        let width, height; 
         let frame = 0;
 
         // Mouse State
