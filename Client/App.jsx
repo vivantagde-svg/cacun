@@ -34,7 +34,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; 2024 Cacun Web Application. All rights reserved.</p>
+        <p>&copy; 2025 Cacun Web Application. All rights reserved.</p>
       </footer>
     </div>
   );
